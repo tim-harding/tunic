@@ -2,6 +2,11 @@
 name = "tunic"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+description = "An interface for TUN/TAP devices"
+homepage = "https://www.github.com/tim-harding/tunic"
+repository = "https://www.github.com/tim-harding/tunic"
+readme = "README.md"
 
 [dependencies]
 nix = "0.26.2"
